@@ -1,11 +1,29 @@
+.contenedor{
+    text-align: center;
+    background-color:#353942;
+    border: 1px solid #111;
+    width: 24%;
+    margin-left: 3%;
+    margin-top: 3%;
+    float: left;
+    color: #ECE9EF;
+}
+
+
+
 .carousel-contenedor{
+    position: fixed;
     text-align: center;
     background-color: rgb(85, 178, 209);
     border: 1px solid #111;
     width: 60%;
-    margin-left: 20%;
+    margin-left: 30%;
     margin-top: 3%;
+    
 }
+
+
+
 .negrita{
     text-shadow: -1px -1px 1px #333, 1px -1px 1px #333, -1px 1px 1px #333, 1px 1px 1px #333;
     
